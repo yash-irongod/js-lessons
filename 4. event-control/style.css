@@ -1,0 +1,6 @@
+/* ".btn" class controls the appearance of all buttons */
+.btn {
+    background-color: pink;
+    height: 50px;
+    width: 200px;
+}
