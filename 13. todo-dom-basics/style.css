@@ -1,0 +1,31 @@
+/* Input field styling */
+#task {
+    width: 200px;
+    height: 30px;
+    padding: 5px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Button styling */
+.btn {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    width: 100px;
+    height: 40px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+/* Each task item */
+li {
+    width: 300px;
+    background-color: tan;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-top: 5px;
+}
